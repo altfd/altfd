@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ALTFD's GitHub stats](https://github-readme-stats-ten-khaki.vercel.app/api?username=altfd&count_private=true)
+![ALTFD's GitHub stats](https://github-readme-stats-ten-khaki.vercel.app/api?username=altfd&count_private=true&show_icons=true&theme=transparent)
 <!--
 **altfd/altfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
