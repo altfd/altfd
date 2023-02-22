@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ALTFD's GitHub stats](https://github-readme-stats-ten-khaki.vercel.app/api?username=altfd&count_private=true&show_icons=true&theme=dark&&bg_color=00000000)
+![ALTFD's GitHub stats](https://github-readme-stats-ten-khaki.vercel.app/api?username=altfd&count_private=true&show_icons=true&theme=dark&&bg_color=00000000&hide_title=true)
 
 [![Top Langs](https://github-readme-stats-ten-khaki.vercel.app/api/top-langs/?username=altfd&layout=compact&theme=dark&&bg_color=00000000)](https://github.com/altfd/github-readme-stats)
 <!--
