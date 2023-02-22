@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![ALTFD's GitHub stats](https://github-readme-stats-ten-khaki.vercel.app/api?username=altfd&count_private=true&show_icons=true&theme=dark&&bg_color=00000000&custom_title=GitHub%20Stats)
+![ALTFD's GitHub stats](https://github-readme-stats-ten-khaki.vercel.app/api?username=altfd&count_private=true&show_icons=true&theme=dark&bg_color=00000000&custom_title=GitHub%20Stats)
 
-[![Top Langs](https://github-readme-stats-ten-khaki.vercel.app/api/top-langs/?username=altfd&layout=compact&theme=dark&&bg_color=00000000)](https://github.com/altfd/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-khaki.vercel.app/api/top-langs/?username=altfd&layout=compact&theme=dark&bg_color=00000000)](https://github.com/altfd/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats-ten-khaki.vercel.app/api/wakatime?username=altfd)](https://github.com/altfd/github-readme-stats)
+[![wakatime stats](https://github-readme-stats-ten-khaki.vercel.app/api/wakatime?username=altfd&theme=dark&bg_color=00000000)](https://github.com/altfd/github-readme-stats)
 <!--
 **altfd/altfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
